@@ -36,14 +36,14 @@ project-ca-worker | Worker process for project-ca-app services | **Delayed**
 t-app | An **undisclosable** app written in React Native + Firebase for both iOS and Android | **Delayed**
 
 
-### Dumb Public Repos
-Repos | Description | Status | URL
-------|---------|------|-----
-cloudflare-ddns | A Node.js script that auto updates host's IP address to the cloudflare DNS record | Active | ***PRIVATE***
-Leet-Code | My attempt on Leet Code questions, not frequently updated | Active | https://github.com/SoLoHK525/Leet-Code
-WereWolf-Minecraft-Bukkit | A bukkit plugin for playing WereWolf game in Minecraft. it was badly written in Java, cuz I never learned OO before lmao | "Not being used" | https://github.com/SoLoHK525/WereWolf-Minecraft-Bukkit
-valorant-api | A Node.js wrapper for the Valorant API | Active | https://github.com/SoLoHK525/valorant-api
-FlightReservationSystem | A course project that helps student to comprehend connecting a Java program to Oracle Database via ODBC Drivers | Finished | https://github.com/SoLoHK525/FlightReservationSystem 
+### Dumb Repos
+Repos | Description | Status
+------|---------|------
+cloudflare-ddns | A Node.js script that auto updates host's IP address to the cloudflare DNS record | Active
+[Leet-Code](https://github.com/SoLoHK525/Leet-Code) | My attempt on Leet Code questions, not frequently updated | Active
+[WereWolf-Minecraft-Bukkit](https://github.com/SoLoHK525/WereWolf-Minecraft-Bukkit) | A bukkit plugin for playing WereWolf game in Minecraft. it was badly written in Java, cuz I never learned OO before lmao | Not being used 🤔
+[valorant-api](https://github.com/SoLoHK525/valorant-api) | A Node.js wrapper for the Valorant API | Active
+[FlightReservationSystem](https://github.com/SoLoHK525/FlightReservationSystem) | A course project that helps student to comprehend connecting a Java program to Oracle Database via ODBC Drivers | Finished
 <!--
 **SoLoHK525/SoLoHK525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
